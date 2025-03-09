@@ -11,3 +11,4 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Я домашка")
 }
+// Это тестовый комментарий для проверки Git
